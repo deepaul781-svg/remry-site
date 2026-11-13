@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://deepaul781-svg.github.io/remry-site/sitemap.xml
